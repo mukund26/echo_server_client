@@ -1,4 +1,4 @@
-# Echo server client
+# Echo Server Client
 
 # How it works
 It's a basic python program that sends data across the server and the client, in this case being a string
